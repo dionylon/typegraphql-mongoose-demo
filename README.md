@@ -1,4 +1,5 @@
-> import Mongoose from "mongoose"
+### run
+npm run dev
 
 - typescript 
 - type-graphql
